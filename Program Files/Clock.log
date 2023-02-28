@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"C:\Users\Chamsara\Desktop\My Project\Program Files\Clock.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Chamsara\Desktop\My Project\Program Files\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Clock.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Clock.c
+diagnostics: 193	123	Compiled Successfully	Clock.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 113 (32%)  Free RAM (bytes): 239 (68%)	Used RAM (bytes): 113 (32%)  Free RAM (bytes): 239 (68%)
+hint: 0	1144	Used ROM (program words): 1112 (14%)  Free ROM (program words): 7080 (86%)	Used ROM (program words): 1112 (14%)  Free ROM (program words): 7080 (86%)
+diagnostics: 0	125	Project Linked Successfully	Clock.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'Clock.mcppi' completed: 282 ms	 
+diagnostics: 0	103	Finished successfully: 27 Feb 2023, 20:10:53	Clock.mcppi
